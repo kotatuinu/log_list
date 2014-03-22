@@ -86,4 +86,5 @@ test001/testYYYYMMDD	○	○	○	○	○	○		○	○	○
 test003/testYYYYMMDDHH.log	○										○  
 test001/testYYYYMMDD	○	○	○	○	○	○		○	○	○	   
 test004/testYYYYMMDD.log	○	○	○	○	○	○		○	○	○	  
+  
 ---------------
