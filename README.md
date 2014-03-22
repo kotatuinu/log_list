@@ -7,12 +7,12 @@
 ##使い方  
  `$ ./log_list.sh <log file list> <start date YYYYMMDD> <end date YYYYMMDD>`  
   
-* <log file list>       ： 確認するファイルとディレクトリの一覧を格納したファイル。
-* <start date YYYYMMDD> ： 確認する日付（開始）。形式はYYYYMMDD（たとえば20140119）
-* <end date YYYYMMDD>   ： 確認する日付（終了）。形式はYYYYMMDD（たとえば20140129）
+* log file list       ： 確認するファイルとディレクトリの一覧を格納したファイル。
+* start date YYYYMMDD ： 確認する日付（開始）。形式はYYYYMMDD（たとえば20140119）
+* end date YYYYMMDD   ： 確認する日付（終了）。形式はYYYYMMDD（たとえば20140129）
   
 
- <log file list>の内容は、ディレクトリ,タブ文字,ファイル名 の一覧を格納してください。  
+ log file listの内容は、ディレクトリ,タブ文字,ファイル名 の一覧を格納してください。  
   
  ディレクトリは、相対ディレクトリ、絶対ディレクトリのどちらでも使えます。  
   
