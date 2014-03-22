@@ -80,11 +80,11 @@ test004 testYYYYMMDD.log
   
 inu@inu-virtual-machine:~/work/log_list$ cd test  
 ~/work/log_list/test$ ../log_list.sh test001.txt 20140119 20140129  
-	2014/01/19	2014/01/20	2014/01/21	2014/01/22	2014/01/23	2014/01/24	2014/01/25	2014/01/26	2014/01/27	2014/01/28	2014/01/29  
-test002/testYYYYMMDDHH	○										○  
-test001/testYYYYMMDD	○	○	○	○	○	○		○	○	○	  
-test003/testYYYYMMDDHH.log	○										○  
-test001/testYYYYMMDD	○	○	○	○	○	○		○	○	○	   
-test004/testYYYYMMDD.log	○	○	○	○	○	○		○	○	○	  
-  
+    2014/01/19  2014/01/20  2014/01/21  2014/01/22  2014/01/23  2014/01/24  2014/01/25  2014/01/26  2014/01/27  2014/01/28  2014/01/29  
+test002/testYYYYMMDDHH  ○                                      ○  
+test001/testYYYYMMDD    ○  ○  ○  ○  ○  ○      ○  ○  ○      
+test003/testYYYYMMDDHH.log  ○                                      ○  
+test001/testYYYYMMDD    ○  ○  ○  ○  ○  ○      ○  ○  ○    
+test004/testYYYYMMDD.log    ○  ○  ○  ○  ○  ○      ○  ○  ○    
+    
 ---------------
