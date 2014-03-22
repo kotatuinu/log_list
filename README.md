@@ -21,7 +21,7 @@
 * 文字列"HH"は、ワイルドカード"*"に置きかえる。  
   
  結果は、標準出力に出ます。ファイルに残したいときは、リダイレクトしてください。  
- 確認したファイルは、log_list_&lt;start date YYYYMMDD&gt;_&lt;end date YYYYMMDD&gt.dat ファイルに出力します。  
+ 確認したファイルは、log_list_&lt;start date YYYYMMDD&gt;_&lt;end date YYYYMMDD&gt;.dat ファイルに出力します。  
   
   
 ##使用例  
@@ -84,6 +84,6 @@ inu@inu-virtual-machine:~/work/log_list$ cd test
 test002/testYYYYMMDDHH	○										○  
 test001/testYYYYMMDD	○	○	○	○	○	○		○	○	○	  
 test003/testYYYYMMDDHH.log	○										○  
-test001/testYYYYMMDD	○	○	○	○	○	○		○	○	○	  
+test001/testYYYYMMDD	○	○	○	○	○	○		○	○	○	   
 test004/testYYYYMMDD.log	○	○	○	○	○	○		○	○	○	  
 ---------------
