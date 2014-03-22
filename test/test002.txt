@@ -1,0 +1,5 @@
+test000 testYYYYMMDD
+test001	testYYYYMMDD
+test002	testYYYYMMDDHH
+test003	testYYYYMMDDHH.log
+
